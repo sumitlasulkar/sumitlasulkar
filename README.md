@@ -1,4 +1,4 @@
-# Hi there, I'm Sumit Lasulkar 👋[cite: 1]
+# Hi there, I'm Sumit Lasulkar 👋
 
 ### Full-Stack Developer | AI & Security Enthusiast | Technical Educator
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack[cite: 1]
+## 🛠️ Tech Stack
 
 * **Languages:** C++, Python, Java, JavaScript (ES6+)
 * **Frontend:** React.js, React Native, Next.js, HTML5, CSS3
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Featured Projects[cite: 1]
+## 🚀 Featured Projects
 
 ### 🛡️ [AiOS Shield – Zero-Trust Security Ecosystem](https://alphasheild.vercel.app/dashboard)
 **Tech Stack:** Next.js, Python, C++, ML, DL, NLP, PyDivert, Scapy
