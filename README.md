@@ -1,39 +1,39 @@
 # Hi there, I'm Sumit Lasulkar 👋[cite: 1]
 
-### Full-Stack Developer | AI & Security Enthusiast | Technical Educator[cite: 1]
+### Full-Stack Developer | AI & Security Enthusiast | Technical Educator
 
-* 🎓 **Education:** Pursuing a Bachelor of Engineering in Computer Engineering at SPPU (Expected June 2027) with a 9.54 CGPA[cite: 1].
-* 👨‍🏫 **Community:** Founder of ThinkHatch Educational Platform, mentoring 3,000+ learners on core CS subjects, Data Science, and ML[cite: 1].
-* 💻 **Experience:** Former Full-Stack Developer Intern at Nexonica System Pvt. Ltd[cite: 1].
-* 🛡️ **Current Focus:** Developing AiOS Shield, a Zero-Trust Security Ecosystem[cite: 1].
-* 📫 **Contact:** Reach out at sumit.lasulkar4u@gmail.com or via LinkedIn[cite: 1].
+* 🎓 **Education:** Pursuing a Bachelor of Engineering in Computer Engineering at SPPU (Expected June 2027) with a 9.54 CGPA.
+* 👨‍🏫 **Community:** Founder of ThinkHatch Educational Platform, mentoring 3,000+ learners on core CS subjects, Data Science, and ML.
+* 💻 **Experience:** Former Full-Stack Developer Intern at Nexonica System Pvt. Ltd.
+* 🛡️ **Current Focus:** Developing AiOS Shield, a Zero-Trust Security Ecosystem.
+* 📫 **Contact:** Reach out at sumit.lasulkar4u@gmail.com or via LinkedIn.
 
 ---
 
 ## 🛠️ Tech Stack[cite: 1]
 
-* **Languages:** C++, Python, Java, JavaScript (ES6+)[cite: 1]
-* **Frontend:** React.js, React Native, Next.js, HTML5, CSS3[cite: 1]
-* **Backend & APIs:** Node.js, Express.js, FastAPI, RESTful APIs[cite: 1]
-* **Databases:** SQL, PL/SQL, MongoDB, MySQL[cite: 1]
-* **AI & Data:** Machine Learning, Deep Learning, NLP, LLMs, RAG, NumPy, Pandas[cite: 1]
-* **Tools:** Git, Linux (Ubuntu), Windows[cite: 1]
+* **Languages:** C++, Python, Java, JavaScript (ES6+)
+* **Frontend:** React.js, React Native, Next.js, HTML5, CSS3
+* **Backend & APIs:** Node.js, Express.js, FastAPI, RESTful 
+* **Databases:** SQL, PL/SQL, MongoDB, MySQL, Cloud Computing
+* **AI & Data:** Machine Learning, Deep Learning, NLP, LLMs, RAG, NumPy, Pandas, Data Analysis
+* **Tools:** Git, Linux (Ubuntu), Windows
 
 ---
 
 ## 🚀 Featured Projects[cite: 1]
 
-### 🛡️ [AiOS Shield – Zero-Trust Security Ecosystem](Live-Demo-Link-Here)[cite: 1]
-**Tech Stack:** Next.js, Python, C++, ML, DL, NLP, PyDivert, Scapy[cite: 1]
-* Engineered a mandatory 4-layer MFA matrix utilizing a C++ kiosk-lock agent and biometric (Face++ 1:1) validations[cite: 1].
-* Integrated an Isolation Forest ML model with kernel-level Deep Packet Inspection to drop Zero-Day threats with 98.4% accuracy[cite: 1].
-* Architected a real-time telemetry pipeline leveraging LLMs to synthesize raw system logs into human-readable incident reports, reducing SOC alert fatigue by 90%[cite: 1].
+### 🛡️ [AiOS Shield – Zero-Trust Security Ecosystem](https://alphasheild.vercel.app/dashboard)
+**Tech Stack:** Next.js, Python, C++, ML, DL, NLP, PyDivert, Scapy
+* Engineered a mandatory 4-layer MFA matrix utilizing a C++ kiosk-lock agent and biometric (Face++ 1:1) validations.
+* Integrated an Isolation Forest ML model with kernel-level Deep Packet Inspection to drop Zero-Day threats with 98.4% accuracy.
+* Architected a real-time telemetry pipeline leveraging LLMs to synthesize raw system logs into human-readable incident reports, reducing SOC alert fatigue by 90%.
 
-### 🧠 [Thinkhatch – AI-Powered Neural EdTech Platform](Live-Demo-Link-Here)[cite: 1]
-**Tech Stack:** Next.js, TypeScript, LLM, APIs[cite: 1]
-* Spearheaded a full-stack generative AI educational platform handling dynamic routing and modular component architecture[cite: 1].
-* Orchestrated seamless LLM API integration to parse natural language requests into strict JSON-formatted micro-learning nodes[cite: 1].
-* Developed interactive client-side interfaces using React Hooks and Framer Motion, ending in an automated PDF certificate generation pipeline[cite: 1].
+### 🧠 [Thinkhatch – AI-Powered Neural EdTech Platform](https://thinkhatch.vercel.app/)
+**Tech Stack:** Next.js, TypeScript, LLM, APIs
+* Spearheaded a full-stack generative AI educational platform handling dynamic routing and modular component architecture.
+* Orchestrated seamless LLM API integration to parse natural language requests into strict JSON-formatted micro-learning nodes.
+* Developed interactive client-side interfaces using React Hooks and Framer Motion, ending in an automated PDF certificate generation pipeline.
 
 <!--- 👨‍💻 All of my projects are available at [https://prathameshlasulkar.netlify.app/](https://prathameshlasulkar.netlify.app/)
 
