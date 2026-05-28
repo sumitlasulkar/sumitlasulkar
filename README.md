@@ -1,4 +1,4 @@
-[![MasterHead]("sumit LAsulakr (1).png")
+[![MasterHead](src= "sumit LAsulakr (1).png")
 
 <h1 align="center">Hi 👋, I'm Sumit Lasulkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
